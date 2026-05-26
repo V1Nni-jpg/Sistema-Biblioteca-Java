@@ -189,5 +189,5 @@ Emprestimo emp = new Emprestimo(1, usuario, livro);
 ## 🏫 Informações Acadêmicas
 
 **Disciplina:** Programação Orientada a Objetos  
-**Instituição:** Universidade (UFRN / UFERSA / etc.)  
+**Instituição:** UNP SALGADO FILHO
 **Período:** 2025.1

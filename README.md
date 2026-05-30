@@ -180,9 +180,7 @@ Emprestimo emp = new Emprestimo(1, usuario, livro);
 
 ## 👥 Integrantes do Grupo
 
-- Nome 1
-- Nome 2
-- Nome 3
+- Nome Vinicius M
 
 ---
 

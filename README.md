@@ -190,4 +190,4 @@ Emprestimo emp = new Emprestimo(1, usuario, livro);
 
 **Disciplina:** Programação Orientada a Objetos  
 **Instituição:** UNP SALGADO FILHO **
-**Período:** 2025.1
+**Período:** 2026.1
